@@ -37,15 +37,15 @@ body {
   transition-duration: .1s;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 268px) {
   .button-36 {
-    padding: 0 2.6rem;
+    padding: 0 3rem;
   }
 }
 
 .miro{
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   border-radius: 5px;
 }
 
